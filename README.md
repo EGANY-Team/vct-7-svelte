@@ -9,7 +9,7 @@ Các chức năng của app:
 - [x] Hiển thị ảnh từ API `https://picsum.photos/v2/list?page=PAGE_NUMBER`
 - [x] Navigation (prev page | next page | entered page)
 
-Live demo:
+Live demo: https://vct-7-svelte.thanhnguyen.now.sh
 
 ## Cài đặt
 
@@ -37,4 +37,4 @@ npm run build
 [svelte]: https://svelte.dev/
 [rollup]: https://rollupjs.org
 [now]: https://zeit.co/now
-[post]: https://devnow.vn
+[post]: https://devnow.vn/voc-cung-thanh-7-svelte.html
